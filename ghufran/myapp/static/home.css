@@ -1,0 +1,64 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+.homebg{
+    background-image: url("homebg.jpg");
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.tit{
+    font-size: larger;
+    color: orangered;
+    top: 2%; 
+    left: 3%;
+    position: absolute;
+    display: inline-block;
+}
+.stit{
+    color: silver;
+    display: inline-block;
+}
+.dashboard{
+    display: flex;
+    position: absolute;
+    top: 2%;
+    right: 20%;
+}
+.dashboard ul{
+    display: flex;
+    position: absolute;
+    list-style: none;
+    gap: 20px;
+}
+.dashboard li{
+    color: bisque;
+    cursor: pointer;
+}
+.text{
+    top: 22%;
+    left: 17%;
+    position: absolute;
+    color: cornsilk;
+}
+.home1{
+    background-image: url("inhome.jpeg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    width: 900px;
+    height: 400px;
+    top: 37%;
+    left: 20%;
+}
+.foot{
+    position: absolute;
+    background-color: black;
+    color: azure;
+    width: 100%;
+    height: 25px;
+    bottom: 1px;
+    text-align: center;
+}
