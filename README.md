@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:06/10/2025
+## Date:07/10/2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -159,7 +159,7 @@ in admin.html
     <h1 align="center">MEET OUR TEAM</h1>
    <div class="product-container">
   	<div class="product-card">
-      		<img src="ceo.jpg">
+      		<img src="ghufpic.jpg">
       		<h3><b>CEO</b></h3>
     	</div>
   	<div class="product-card">
@@ -167,7 +167,7 @@ in admin.html
       		<h3><B>X-CE0</B></h3>
     	</div>
   	<div class="product-card">
-      		<img src="x-ceo.jpeg">
+      		<img src="ceo.jpg">
       		<h3><B>MD</B></h3>
     	</div>
         <div class="product-container">
@@ -458,7 +458,7 @@ in contact.html
 ## OUTPUT:
 ![alt text](<Screenshot 2025-10-06 125522.png>)
 ![alt text](<Screenshot 2025-10-06 125542.png>)
-![alt text](<Screenshot 2025-10-06 125605.png>)
+![alt text](<Screenshot 2025-10-07 094909.png>)
 ![alt text](<Screenshot 2025-10-06 125616.png>)
 
 ## RESULT:
